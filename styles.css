@@ -3,6 +3,7 @@
 	background-color:white;
 	width:80%;
 	border:1px solid black;
+	display:none;
 }
 .modal-header{
 	background-color:green;
