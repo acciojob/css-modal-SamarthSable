@@ -1,6 +1,5 @@
-//your JS code here. If required.
 document.querySelector("#openModal").onclick = () => {
-    document.querySelector(".modal").style.display = "block";
+    document.querySelector(".modal").style.display = "flex";
 };
 
 document.querySelector(".close-modal").onclick = () => {
