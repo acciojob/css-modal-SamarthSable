@@ -1,5 +1,5 @@
 document.querySelector("#openModal").onclick = () => {
-    document.querySelector(".modal").style.display = "flex";
+    document.querySelector(".modal").style.display = "flex"; // <-- flex only when opened
 };
 
 document.querySelector(".close-modal").onclick = () => {
